@@ -42,7 +42,7 @@ I'm a **Big Data Engineer** with expertise in designing, building, and scaling m
 ## 🌟 Let's Connect and Collaborate:
 - <a href="https://github.com/kenneth-pro" target="_blank">GitHub</a>  
 - <a href="https://www.linkedin.com/in/kabdela/" target="_blank">LinkedIn</a>  
-- <a href="https://https://kenneth-pro.github.io/" target="_blank">Portfolio</a>  
+- <a href="https://kenneth-pro.github.io/" target="_blank">Portfolio</a>  
 
 <!---
 kenneth-pro/kenneth-pro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
